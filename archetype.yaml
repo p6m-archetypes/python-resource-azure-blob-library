@@ -1,0 +1,12 @@
+---
+description: "Python Resource Library: Azure Blob Storage"
+authors: ["Jimmie Fulton <jimmie@ybor.ai>"]
+languages: ["Python"]
+tags: ["azure", "blob", "storage", "resource", "library"]
+
+requires:
+  archetect: "3.0.0"
+
+templating:
+  trim_blocks: true
+  lstrip_blocks: true
